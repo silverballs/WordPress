@@ -1,11 +1,11 @@
-GET NEWEST / AND STAY UP TO DATE 
+#GET NEWEST / AND STAY UP TO DATE 
 
 1. Git clone git clone git@github.com:<your-git-user>/WordPress.git
 
 2. cd into WordPress folder and don't feel bad feeling Redundant since we're doing it! 
 
 3. git remote add upstream https://github.com/WordPress/WordPress.git
-#Assigns the original repository to a var "upstream" 
+Assigns the original repository to a var "upstream" 
 4. git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
 5. git merge upstream/master
@@ -32,7 +32,7 @@ go to github and add new repo called yourApp you can use this read me if you wan
 
 run these
 
-#git remote add origin git@github.com:<your-git-name>/myWordPress.git
+git remote add origin git@github.com:<your-git-name>/myWordPress.git
 
 git push -u origin master
 
