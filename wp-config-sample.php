@@ -1,7 +1,7 @@
 <?php
 /**
  * The base configurations of the WordPress.
- *
+ *test
  * This file has the following configurations: MySQL settings, Table Prefix,
  * Secret Keys, WordPress Language, and ABSPATH. You can find more information
  * by visiting {@link http://codex.wordpress.org/Editing_wp-config.php Editing
